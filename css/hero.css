@@ -1,0 +1,10 @@
+.hero{
+    margin-bottom: 100px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.hero-text{
+    width: 500px;
+}

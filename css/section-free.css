@@ -1,0 +1,10 @@
+.first-section{
+    margin: 100px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.section-text{
+    width: 500px
+}

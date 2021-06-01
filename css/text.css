@@ -1,0 +1,11 @@
+.text-body{
+    font-family: "Bai Jamjuree";
+    font-weight: 400;
+    color: rgb(182, 182, 182);
+    padding: 20px;
+}
+
+.text-title{
+    font-family: "Bai Jamjuree";
+    font-weight: 600;
+}
