@@ -1,23 +1,40 @@
+
+.download-button{
+    margin: 40px 10px;
+}
+
+.button-space{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+
+
 .download{
-    border-style: outset;
+    padding: 15px 40px;
     margin: 10px;
-    border-radius: 20px;
-    width: 210px;
-    height: 50px;
+    border-radius: 30px;
+    text-decoration: none;
     text-align: center;
-    color: #fff;
     font-size: 18px;
     font-family: "Bai Jamjuree";
     font-weight: 600;
 }
 
 .mac{
-    background-color: hsl(171, 66%, 44%);
-    border-color: hsl(171, 66%, 44%);
-} 
+    background-color:hsl(171, 66%, 44%);
+    color: #FFF;
+    box-shadow: rgba(55, 228, 133, 0.3) 0px 15px 12px, inset 0 -2px 0px 0px rgba(15, 128, 65, 0.3);
+}
+
 
 .ios{
+
     background-color: hsl(233, 100%, 69%);
-    border-color: hsl(233, 100%, 69%);
-    box-shadow: 30px hsl(233, 100%, 69%);
+    color: #FFF;
+    box-shadow: rgba(81, 55, 228, 0.3) 0px 15px 12px, inset 0 -2px 0px 0px rgba(52, 33, 160, 0.3);
 }
