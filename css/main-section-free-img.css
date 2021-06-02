@@ -1,0 +1,10 @@
+.main-section-txt{
+    margin: 20px 0 80px 0;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.text-div{
+    width: 700px;
+}

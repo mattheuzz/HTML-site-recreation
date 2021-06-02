@@ -1,0 +1,24 @@
+.txt-img{
+    margin: 60px;
+    width: 400px;
+}
+
+.section-img-txt{
+    display: flex;
+    padding-bottom: 100px;
+}
+
+.img-computer-div{
+    margin-right: 40px;
+}
+
+.img-devices-div{
+    display: flex;
+    justify-content: center;
+}
+
+.text-icon-div{
+    align-content: center;
+    width: 300px;
+    margin: 20px;
+}

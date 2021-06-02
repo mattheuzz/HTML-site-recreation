@@ -1,11 +1,37 @@
 .text-body{
+    font-size: 16px;
     font-family: "Bai Jamjuree";
     font-weight: 400;
     color: rgb(182, 182, 182);
-    padding: 20px;
+    padding: 20px 0;
+}
+
+.text-subtitle{
+    font-size: 28px;
+    font-family: "Bai Jamjuree";
+    font-weight: 600;
+    color: hsl(210, 10%, 33%);
 }
 
 .text-title{
+    font-size: 36px;
     font-family: "Bai Jamjuree";
     font-weight: 600;
+    color: hsl(210, 10%, 33%);
+}
+
+.text-body-comp{
+    font-size: 14px;
+    font-family: "Bai Jamjuree";
+    font-weight: 400;
+    color: rgb(182, 182, 182);
+    padding-bottom: 60px;
+}
+
+
+.text-subtitle-comp{
+    font-size: 24px;
+    font-family: "Bai Jamjuree";
+    font-weight: 600;
+    color: hsl(210, 10%, 33%);
 }

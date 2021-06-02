@@ -19,4 +19,5 @@
 .ios{
     background-color: hsl(233, 100%, 69%);
     border-color: hsl(233, 100%, 69%);
+    box-shadow: 30px hsl(233, 100%, 69%);
 }
